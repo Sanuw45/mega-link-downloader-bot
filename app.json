@@ -16,7 +16,7 @@
   "success_url": "http://t.me/themegadownloadbot",
   "website": "https://github.com/TharukRenuja/mega-link-downloader-bot",
   "logo": "https://telegra.ph/file/a438489c44d17d108f7b5.jpg",
-  "repository": "https://github.com/TharukRenuja/mega-link-downloader-bot",
+  "repository": "https://github.com/Sanuw45/mega-link-downloader-bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode! (Don't change anything in this field!)",
